@@ -48,7 +48,7 @@ public class Book {
 	public void setStock(double stock) {
 		this.stock = stock;
 	}
-	@Override
+	
 	public String toString() {
 		return "Book [isbn=" + isbn + ", title=" + title + ", price=" + price + ", category=" + category + ", stock="
 				+ stock + "]";
