@@ -49,10 +49,6 @@ public class Book {
 		this.stock = stock;
 	}
 	
-	public String toString() {
-		return "Book [isbn=" + isbn + ", title=" + title + ", price=" + price + ", category=" + category + ", stock="
-				+ stock + "]";
-	}
 	
 	
 	
